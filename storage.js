@@ -1,4 +1,4 @@
-const TODOS_STORAGE_KEY = 'TODOS';
+const TODOS_STORAGE_KEY = 'TODOS' //input your key to use local storage
 
 export default {
     get() {

@@ -4,4 +4,4 @@ Preview:
 
 Simple TODOS App using React-Redux clone Javascript Library
 
-Template from https://github.com/Klerith/TODO-CSS-Template
+Template from: https://github.com/Klerith/TODO-CSS-Template
