@@ -1,5 +1,5 @@
-import html from '../core.js'
-import { connect } from '../store.js'
+import html from '../react-redux-clone-lib/core.js'
+import { connect } from '../react-redux-clone-lib/store.js'
 import TodoItem from '../component/TodoItem.js'
 
 function TodoList({ todos, filter, filters }) {

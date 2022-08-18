@@ -1,4 +1,4 @@
-import html from '../core.js'
+import html from '../react-redux-clone-lib/core.js'
 
 function Header() {
     
